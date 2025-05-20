@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: /downloads/*.jpg$
+Disallow: /downloads/*.jpeg$
+Disallow: /downloads/*.png$
+Disallow: /downloads/*.gif$
+Disallow: /downloads/*.webp$
+
+Sitemap: https://vasanportfolio.com/sitemap.xml
